@@ -10,18 +10,21 @@ This project analyzes house rent data and predicts rental prices using Machine L
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- XGBoost
 
 ## Features
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Feature Engineering
 - House Rent Prediction
 
-## Models Used
-- Linear Regression
-- Random Forest
-- XGBoost
+## Project Screenshots
+
+![Screenshot 1](output01.png)
+
+![Screenshot 2](output02.png)
+
+![Screenshot 3](output03.png)
 
 ## Author
 The Max
