@@ -27,4 +27,4 @@ This project analyzes house rent data and predicts rental prices using Machine L
 ![Screenshot 3](output03.png)
 
 ## Author
-The Max
+Mohamed Ahmed
